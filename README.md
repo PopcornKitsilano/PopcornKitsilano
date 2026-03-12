@@ -4,19 +4,19 @@
 
 B.Tech CS (AI & ML) · Techno Main Salt Lake, Kolkata · Open to remote internships and freelance work
 
-[![Resume](https://img.shields.io/badge/Resume-Download-1A56DB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/PopcornKitsilano/PopcornKitsilano/raw/main/resume.pdf)
+> 📄 **Employer?** [![Resume](https://img.shields.io/badge/Download_Resume-1A56DB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/PopcornKitsilano/PopcornKitsilano/raw/main/resume.pdf)
 
 ---
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=python,javascript,c,java,flask,django,react,nodejs,html,css,bash,linux,git,vscode,arduino,sqlite&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,javascript,c,java,flask,html,css,bash,linux,git,vscode,arduino&perline=8)](https://skillicons.dev)
 
 ---
 
 ### Currently Learning
 
-[![Learning](https://skillicons.dev/icons?i=react,nodejs,aws,docker,pytorch,tensorflow&perline=6)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=react,nodejs,aws,docker&perline=4)](https://skillicons.dev)
 
 ---
 
@@ -24,11 +24,11 @@ B.Tech CS (AI & ML) · Techno Main Salt Lake, Kolkata · Open to remote internsh
 
 **[PassME — Full-Stack Password Manager](https://github.com/PopcornKitsilano/PassME)**
 Built with Python, Flask and SQLite. Argon2 hashing, Fernet encryption, OWASP Top 10 protections.
-[![Demo](https://img.shields.io/badge/Demo-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=X2SUDquMxqc)
+📺 [Watch Demo](https://www.youtube.com/watch?v=X2SUDquMxqc)
 
 **[BasketBawL — Browser Game](https://github.com/PopcornKitsilano/BasketBAWL)**
 Basketball game built with MIT Scratch. Real-time scoring, keyboard controls, conditional game logic.
-[![Play](https://img.shields.io/badge/Play-FF6B00?style=flat-square&logo=scratch&logoColor=white)](https://scratch.mit.edu/projects/1061387522/)
+🎮 [Play it](https://scratch.mit.edu/projects/1061387522/)
 
 **[Instagram Comment Deleter](https://github.com/PopcornKitsilano/instagram-comment-deleter)**
 Browser console script to bulk-delete Instagram comments. Debugged Bloks UI and cross-origin iframe constraints.
@@ -48,7 +48,6 @@ Browser console script to bulk-delete Instagram comments. Debugged Bloks UI and 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayantan-bh/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayantanbhattacharyauni@gmail.com)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PopcornKitsilano)
 
 ---
 
