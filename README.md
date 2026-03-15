@@ -44,8 +44,6 @@ Real-time scoring, keyboard controls, conditional game logic.<br><br>
 
 </td>
 </tr>
-<tr>
-<td colspan="2">
 
 <tr>
 <td colspan="2">
@@ -57,12 +55,16 @@ Retrieval-Augmented Generation chatbot that lets users upload PDFs and ask quest
 </td>
 </tr>
 
+<tr>
+<td colspan="2">
+
 <a href="https://github.com/PopcornKitsilano/instagram-comment-deleter"><strong>Instagram Comment Deleter</strong></a><br>
 JavaScript · Browser Automation<br>
 Bulk-deletes Instagram comments via console. Debugged Bloks UI and cross-origin iframe constraints.
 
 </td>
 </tr>
+
 </table>
 
 ---
