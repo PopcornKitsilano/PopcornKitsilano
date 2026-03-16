@@ -58,6 +58,10 @@ Production-style Retrieval-Augmented Generation pipeline with two-stage retrieva
 
 </td>
 </tr>
+
+<tr>
+<td colspan="2">
+
 <a href="https://github.com/PopcornKitsilano/instagram-comment-deleter"><strong>Instagram Comment Deleter</strong></a><br>
 JavaScript · Browser Automation<br>
 Bulk-deletes Instagram comments via console. Debugged Bloks UI and cross-origin iframe constraints.
