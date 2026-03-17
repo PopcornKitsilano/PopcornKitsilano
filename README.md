@@ -11,18 +11,6 @@ Open to remote internships and freelance work</p>
 
 ---
 
-### 🛠 Skills
-
-[![My Skills](https://skillicons.dev/icons?i=python,js,c,java,flask,html,css,linux,git,vscode,arduino,sqlite&perline=6)](https://skillicons.dev)
-
----
-
-### 📚 Currently Learning
-
-[![Learning](https://skillicons.dev/icons?i=react,nodejs,aws,docker&perline=4)](https://skillicons.dev)
-
----
-
 ### 🚀 Projects
 
 <table>
@@ -73,6 +61,18 @@ Bulk-deletes Instagram comments via console. Debugged Bloks UI and cross-origin 
 
 ---
 
+### 🛠 Skills
+
+[![My Skills](https://skillicons.dev/icons?i=python,js,c,java,flask,html,css,linux,git,vscode,arduino,sqlite&perline=6)](https://skillicons.dev)
+
+---
+
+### 📚 Currently Learning
+
+[![Learning](https://skillicons.dev/icons?i=react,nodejs,aws,docker&perline=4)](https://skillicons.dev)
+
+---
+
 ### 📜 Certifications
 
 [![CS50X](https://img.shields.io/badge/CS50X-Harvard-A51C30?style=for-the-badge&logo=edx&logoColor=white)](https://certificates.cs50.io/2bd9d6d1-fde6-4b09-86c6-358a7c3d5cd3.pdf?size=letter)
@@ -85,7 +85,6 @@ Bulk-deletes Instagram comments via console. Debugged Bloks UI and cross-origin 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayantan-bh/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayantanbhattacharyauni@gmail.com)
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/)
 
 ---
 
