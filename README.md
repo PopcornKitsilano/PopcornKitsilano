@@ -29,21 +29,26 @@ Argon2 hashing, Fernet encryption, OWASP Top 10 protections.<br><br>
 Python · PyTorch · MobileNetV3 · Grad-CAM<br>
 Audit of a 99.76%-accuracy COVID-19 CT classifier: slice-level leakage (accuracy 99.4 → 95.4% under group splits), shortcut learning, external validation (Sao Paulo, Tehran) and calibration under shift. Preprint v1.0.<br><br>
 <a href="https://github.com/PopcornKitsilano/covid-ct-audit"><img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="https://github.com/PopcornKitsilano/covid-ct-audit/blob/main/paper/beyond99percenttest1.pdf"><img src="https://img.shields.io/badge/Read_Preprint-1A56DB?style=flat-square&logo=adobeacrobatreader&logoColor=white"/></a>
+<a href="https://github.com/PopcornKitsilano/covid-ct-audit/raw/main/paper/beyond99percenttest1.pdf"><img src="https://img.shields.io/badge/Read_Preprint-1A56DB?style=flat-square&logo=adobeacrobatreader&logoColor=white"/></a>
 
 </td>
 </tr>
 
 <tr>
-<td colspan="2">
+<td width="50%">
 
 <a href="https://github.com/PopcornKitsilano/rag-chatbot"><strong>Semantic Search RAG Chatbot</strong></a><br>
 Python · Flask · LangChain · ChromaDB · Groq<br>
 Production-style Retrieval-Augmented Generation pipeline with two-stage retrieval, CrossEncoder reranking, conversation memory, and semantic document search.<br><br>
+<a href="https://github.com/PopcornKitsilano/rag-chatbot"><img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
-<a href="https://github.com/PopcornKitsilano/rag-chatbot">
-<img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
+</td>
+<td width="50%">
+
+<a href="https://github.com/PopcornKitsilano/razer-crimson-royale"><strong>Razer Crimson Royale — RGB Lighting</strong></a><br>
+Python · Razer Chroma REST API<br>
+Custom animated RGB lighting for Razer keyboards via the Chroma REST API — no Chroma Studio needed. Wave patterns, per-key colors, full control from a single Python script.<br><br>
+<a href="https://github.com/PopcornKitsilano/razer-crimson-royale"><img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
